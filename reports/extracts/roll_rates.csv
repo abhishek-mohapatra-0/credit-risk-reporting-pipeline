@@ -1,0 +1,13 @@
+from_bucket,to_bucket,roll_pct
+1-30 DPD,1-30 DPD,21.31
+1-30 DPD,31-60 DPD,37.25
+1-30 DPD,Current,41.44
+31-60 DPD,31-60 DPD,22.36
+31-60 DPD,61-90 DPD,41.35
+31-60 DPD,Current,36.28
+61-90 DPD,61-90 DPD,20.69
+61-90 DPD,90+ DPD,42.72
+61-90 DPD,Current,36.59
+90+ DPD,90+ DPD,100.0
+Current,1-30 DPD,1.64
+Current,Current,98.36

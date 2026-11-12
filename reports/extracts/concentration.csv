@@ -1,0 +1,21 @@
+region,product,exposure_cr,share_pct
+South,Home Loan,182.47,12.21
+North,Home Loan,176.66,11.82
+Central,Home Loan,176.22,11.8
+East,Home Loan,172.1,11.52
+West,Home Loan,155.98,10.44
+West,SME Term Loan,72.45,4.85
+South,SME Term Loan,71.95,4.82
+North,SME Term Loan,67.63,4.53
+East,SME Term Loan,67.4,4.51
+Central,SME Term Loan,64.62,4.33
+West,Auto Loan,39.06,2.61
+North,Auto Loan,36.99,2.48
+East,Auto Loan,36.95,2.47
+Central,Auto Loan,34.67,2.32
+South,Auto Loan,32.55,2.18
+East,Personal Loan,22.4,1.5
+South,Personal Loan,21.31,1.43
+West,Personal Loan,21.15,1.42
+Central,Personal Loan,20.83,1.39
+North,Personal Loan,20.57,1.38
